@@ -1,0 +1,12 @@
+# Secrets
+*.pem
+*.sig
+
+# Generated files
+metadata.json
+
+# IDE
+.vscode/
+
+# Python
+__pycache__/
