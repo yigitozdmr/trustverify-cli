@@ -1,0 +1,2 @@
+Example notes file.
+Unauthorized changes should be detected.
